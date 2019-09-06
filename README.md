@@ -11,4 +11,5 @@ Then in the command line:
 4. cd venv/Scripts
 5. activate
 6. return to the root directory and cd to kijiji-map
-7. python kijiji_spider.py
+7. pip install -r requirements.txt 
+8. python kijiji_spider.py
